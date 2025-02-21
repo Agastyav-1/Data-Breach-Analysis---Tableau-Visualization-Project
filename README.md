@@ -49,7 +49,7 @@ The **dashboard** serves as a one-stop visual summary of major breach trends, ma
 - **California, Texas, and Florida** report the highest number of breaches.
 - States with **stricter data protection laws** generally experience fewer breaches, suggesting legal frameworks play a significant role in cybersecurity.
 
-![Breach Incidents by State](extracted_images/visualization_0_0.png)
+
 
 ---
 
@@ -62,7 +62,7 @@ The **dashboard** serves as a one-stop visual summary of major breach trends, ma
 - **Hacking is the leading cause** of breaches.
 - **Insider threats**, though less frequent, highlight the need for internal security measures.
 
-![Breach Types Breakdown](extracted_images/visualization_1_0.png)
+
 
 ---
 
