@@ -75,7 +75,7 @@ The **dashboard** serves as a one-stop visual summary of major breach trends, ma
 - Breach incidents **have steadily increased**, emphasizing the growing cybersecurity threat.
 - Certain **spikes** may be linked to changes in digital infrastructure or major security incidents.
 
-![Breach Trends Over Time](extracted_images/visualization_2_0.png)
+
 
 ---
 
@@ -88,7 +88,7 @@ The **dashboard** serves as a one-stop visual summary of major breach trends, ma
 - While more populated states tend to report **higher breaches**, there are exceptions.
 - Some **smaller states** with lax security laws still experience high breach numbers.
 
-![Population vs. Breach Incidents](extracted_images/visualization_3_0.png)
+
 
 ---
 
