@@ -75,7 +75,7 @@ The **dashboard** serves as a one-stop visual summary of major breach trends, ma
 - Breach incidents **have steadily increased**, emphasizing the growing cybersecurity threat.
 - Certain **spikes** may be linked to changes in digital infrastructure or major security incidents.
 
-
+ 
 
 ---
 
